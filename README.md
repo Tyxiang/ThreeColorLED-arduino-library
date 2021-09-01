@@ -1,1 +1,1 @@
-# arduino library for ThreeColorLED
+# Arduino Library for ThreeColorLED
